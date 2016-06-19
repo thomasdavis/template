@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: essay
+type: essay
+published: true
 title:  "The problem with distributed social networks"
 date:   2012-10-29
 categories: distributed social networks
@@ -12,7 +14,7 @@ Luckily many people have already realized this and have started working on decen
 
 The definition of a distributed social network taken from wikipedia is
 
-> A distributed social network is an Internet social network service that is decentralized and distributed across different providers. 
+> A distributed social network is an Internet social network service that is decentralized and distributed across different providers.
 
 ### The problem is distributing a distributed social network
 
@@ -22,7 +24,7 @@ One of the highest rated comments stated
 
 > Decentralizing things like this is never ever going to work. In terms of running it... my mom/sister/dad/cousin are not going to host this themselves. They might depend on me to do it, but even I'm not going to run a decentralized social network myself. There's too much liability involved. Not to mention, it's a pain in the ass.
 
-Which was refuted by a few comments 
+Which was refuted by a few comments
 
 > You say decentralized services never work, and then give an example of the most successful one: email.   I don't know why you are assuming that everyone will have to run their own. Also, it seems very cynical/naive to think that just because such systems aren't currently working/won't currently work with given social structures, that this will always be the case. Do you disagree?
 
@@ -46,7 +48,7 @@ The browser has shown to become a powerful player in app distribution with the C
 
 So what if we could package DSNs servers in browser extensions themselves.
 
-Users could then 
+Users could then
 
 
 * Easily one click install, cross platform

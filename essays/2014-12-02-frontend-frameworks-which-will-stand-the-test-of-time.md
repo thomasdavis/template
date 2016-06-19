@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: essay
+type: essay
+published: true
 title:  "Frontend Frameworks - Which will stand the test of time?"
 date:   2014-12-02
 categories: frontend frameworks backbone angular
@@ -10,14 +12,14 @@ We have seen an exponential increase in the number of startups over the last few
 
 Regardless of your views about Javascript, it has made apps such as Facebook and Google Docs a pleasure to use. This post assumes Javascript apps are here to stay for quite a while longer, I will write another post about what it will take for a new paradigm to usurp the UI throne.
 
-So if you accept the fact that they are here to stay, then which framework should you choose for your next application? 
+So if you accept the fact that they are here to stay, then which framework should you choose for your next application?
 
 {% highlight javascript %}
 // Please don't nitpick what I called a framework here
 var frameworks = ['angular', 'backbone', 'polymer', 'react', 'flight', 'spine', 'ember', 'knockout', 'agility', 'canjs', 'maria', 'extjs', 'sammyjs', 'stapesjs', 'kendo'];
 {% endhighlight %}
 
-I would like to posit a more important question, especially to those whose careers revolve around using any of these frameworks. 
+I would like to posit a more important question, especially to those whose careers revolve around using any of these frameworks.
 
 ### Which will stand the test of time?
 

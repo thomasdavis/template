@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: essay
+type: essay
+published: true
 title: The obligatory refutation of RPC (Meteor.js)
 date:   2012-04-11
 permalink: the-obligatory-refutation-of-rpc
@@ -8,13 +10,13 @@ permalink: the-obligatory-refutation-of-rpc
 **Note: This is a very old blog post from my younger years**
 
 
-I have just been reading through all the discussion of Meteor.js on Hackernews and noticed that the discussion had very little critique.   So here are just a few articles to think about and at the very least this post hopes to facilitate some discussion of the cons of the Meteor.js approach. 
+I have just been reading through all the discussion of Meteor.js on Hackernews and noticed that the discussion had very little critique.   So here are just a few articles to think about and at the very least this post hopes to facilitate some discussion of the cons of the Meteor.js approach.
 
 ----
 
 [REST：An Alternative to RPC for Web Services Architecture](https://docs.google.com/viewer?a=v&q=cache:LylgA_fL8q4J:web.uvic.ca/~erikj/seng422/resources/rest_paper.pdf+&hl=en&pid=bl&srcid=ADGEESjYHfPLfpUiFhk4xLz6u9tSLXyTtcs6RVvV9ZdSqcNFjPNZ6iKmU5N7Ij0kYphZXmEqAL0VvVYGE9kT14vn7SveDWswWyL71LXn2neko4XEiM5PKaV_ZP5pH2kksIpaPgtcTgmA&sig=AHIEtbSBz804J-e96OlGr7I-LyV4ZDiLBQ&pli=1)
 
-As a front-end developer this publication articulates well some of my strongest concerns. 
+As a front-end developer this publication articulates well some of my strongest concerns.
 
 ----
 

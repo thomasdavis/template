@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: essay
+type: essay
+published: true
 title:  "Introducing Libscore"
 date:   2014-12-22
 categories: libscore
