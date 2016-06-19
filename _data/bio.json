@@ -3,6 +3,7 @@
         "name": "Thomas Davis",
         "label": "Web Developer",
         "summary": "I’m a full stack web developer who loves working with open source technology. I work best at planning the architecture of web  applications and their development life cycles. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "picture": "https://thomasdavisweb.com/template/images/thomas.jpg",
         "email": "thomasalwyndavis@gmail.com",
         "location": {
             "city": "Brisbane",
@@ -10,8 +11,8 @@
         },
         "profiles": [{
             "network": "twitter",
-            "url": "https://twitter.com/neutralthoughts",
-            "username": "neutralthoughts"
+            "url": "https://twitter.com/thomasdav_is",
+            "username": "thomasdav_is"
         }, {
             "network": "github",
             "username": "thomasdavis",
@@ -24,7 +25,7 @@
         "company": "Cdnjs",
         "website": "http://www.cdnjs.com",
         "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-        "highlights": ["Millions of sites use the CDN in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve tens of billions request a month", "Contains over 1800 popular Javascript libraries", "Hundreds of thousands developers visit the site per year"]
+        "highlights": ["Millions of sites use the CDN in production", "Larger market share than Yahoo's and Microsoft's content distribution network", "We serve hundreds of billions request a month", "Contains over 2000 popular Javascript libraries", "Millions of developers visit the site per year"]
     }, {
         "startDate": "2014-04-01",
         "position": "Developer",
