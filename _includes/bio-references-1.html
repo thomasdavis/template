@@ -9,10 +9,13 @@
   <div class="fourteen wide column no-bottom">
     <p class="ui no-bottom">
     {% for entry in site.data.bio.references %}
+      <p>
       {{ entry.name }}
+      <br />
       {% if entry.reference and entry.reference.size > 0 %}
         <em>{{ entry.reference }}</em>
       {% endif %}
+      </p>
     {% endfor %}
     </p>
   </div>
